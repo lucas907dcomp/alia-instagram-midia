@@ -20,6 +20,8 @@ jobs:
           echo "::add-mask::$t"
           echo "IG_TOKEN=$t" >> "$GITHUB_ENV"
       - run: node publicar.mjs
+      - name: Atualizar métricas
+        run: node metricas.mjs
       - name: Registrar publicação na fila
         run: |
           git config user.name "alia-publicador"
