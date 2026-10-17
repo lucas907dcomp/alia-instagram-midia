@@ -29,6 +29,9 @@ async function esperar(id, tentativas = 60) {
   throw new Error(`Container ${id} não ficou pronto`)
 }
 
+// Conferir o token todo dia: se morrer, o job falha e o GitHub avisa por e-mail antes do dia de postar.
+if (!dry) console.log(`Conta: @${(await api('me', { fields: 'username' }, 'GET')).username}`)
+
 const agora = Date.now()
 const pendentes = existsSync('fila')
   ? readdirSync('fila').sort().filter((slug) => {
