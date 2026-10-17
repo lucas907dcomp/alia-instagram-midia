@@ -4,6 +4,6 @@ Fila de publicação do Instagram da Alia (@alia.agentes). A Meta busca cada ima
 
 - `fila/<data>-<slug>/`: slides `NN.png` (ou um `.mp4` para Reels), `legenda.md`, `agenda.json` (`{"quando": "2026-10-21T09:00:00-03:00"}`).
 - Todo dia às 09:00 o Actions publica o próximo post vencido e grava `publicado.json` (nunca publica duas vezes).
-- Toda segunda o token do Instagram é renovado.
+- Toda segunda o token do Instagram é renovado e regravado em `token.enc` (AES-256; a chave só existe no secret `TOKEN_KEY`).
 
 Só entra aqui post aprovado pelo Lucas. Os posts são gerados em `~/alia-instagram` (privado, local).

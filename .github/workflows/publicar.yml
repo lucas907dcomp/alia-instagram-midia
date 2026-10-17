@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: publicar
+concurrency: fila
 jobs:
   publicar:
     runs-on: ubuntu-latest
@@ -14,9 +14,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Abrir token
+        run: |
+          t=$(openssl enc -d -aes-256-cbc -pbkdf2 -a -A -pass "pass:${{ secrets.TOKEN_KEY }}" < token.enc)
+          echo "::add-mask::$t"
+          echo "IG_TOKEN=$t" >> "$GITHUB_ENV"
       - run: node publicar.mjs
-        env:
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
       - name: Registrar publicação na fila
         run: |
           git config user.name "alia-publicador"
