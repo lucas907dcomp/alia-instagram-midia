@@ -1,8 +1,8 @@
 {
   "porDia": {
     "0": {
-      "reach": 3,
-      "views": 3,
+      "reach": 4,
+      "views": 5,
       "likes": 1,
       "comments": 0,
       "saved": 0,
@@ -12,8 +12,8 @@
   },
   "tipo": "CAROUSEL_ALBUM",
   "ultimo": {
-    "reach": 3,
-    "views": 3,
+    "reach": 4,
+    "views": 5,
     "likes": 1,
     "comments": 0,
     "saved": 0,
