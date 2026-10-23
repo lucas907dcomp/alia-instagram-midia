@@ -1,25 +1,25 @@
 {
   "porDia": {
     "0": {
-      "reach": 0,
-      "views": 0,
-      "likes": 0,
+      "reach": 70,
+      "views": 112,
+      "likes": 2,
       "comments": 0,
       "saved": 0,
-      "shares": 0,
-      "total_interactions": 0,
-      "ig_reels_avg_watch_time": 0
+      "shares": 4,
+      "total_interactions": 6,
+      "ig_reels_avg_watch_time": 6804
     }
   },
   "tipo": "VIDEO",
   "ultimo": {
-    "reach": 0,
-    "views": 0,
-    "likes": 0,
+    "reach": 70,
+    "views": 112,
+    "likes": 2,
     "comments": 0,
     "saved": 0,
-    "shares": 0,
-    "total_interactions": 0,
-    "ig_reels_avg_watch_time": 0
+    "shares": 4,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 6804
   }
 }
