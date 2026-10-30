@@ -69,17 +69,27 @@
       "shares": 4,
       "total_interactions": 6,
       "ig_reels_avg_watch_time": 6255
+    },
+    "8": {
+      "reach": 76,
+      "views": 121,
+      "likes": 2,
+      "comments": 0,
+      "saved": 0,
+      "shares": 4,
+      "total_interactions": 6,
+      "ig_reels_avg_watch_time": 6206
     }
   },
   "tipo": "VIDEO",
   "ultimo": {
-    "reach": 75,
-    "views": 119,
+    "reach": 76,
+    "views": 121,
     "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 4,
     "total_interactions": 6,
-    "ig_reels_avg_watch_time": 6255
+    "ig_reels_avg_watch_time": 6206
   }
 }

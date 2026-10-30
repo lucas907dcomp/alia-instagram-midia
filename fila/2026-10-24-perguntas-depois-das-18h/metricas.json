@@ -53,12 +53,21 @@
       "saved": 0,
       "shares": 0,
       "total_interactions": 4
+    },
+    "6": {
+      "reach": 9,
+      "views": 32,
+      "likes": 4,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 4
     }
   },
   "tipo": "CAROUSEL_ALBUM",
   "ultimo": {
-    "reach": 8,
-    "views": 29,
+    "reach": 9,
+    "views": 32,
     "likes": 4,
     "comments": 0,
     "saved": 0,
