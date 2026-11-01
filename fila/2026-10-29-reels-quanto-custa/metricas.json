@@ -19,17 +19,27 @@
       "shares": 2,
       "total_interactions": 5,
       "ig_reels_avg_watch_time": 4747
+    },
+    "2": {
+      "reach": 83,
+      "views": 115,
+      "likes": 3,
+      "comments": 0,
+      "saved": 0,
+      "shares": 2,
+      "total_interactions": 5,
+      "ig_reels_avg_watch_time": 4774
     }
   },
   "tipo": "VIDEO",
   "ultimo": {
-    "reach": 82,
-    "views": 111,
+    "reach": 83,
+    "views": 115,
     "likes": 3,
     "comments": 0,
     "saved": 0,
     "shares": 2,
     "total_interactions": 5,
-    "ig_reels_avg_watch_time": 4747
+    "ig_reels_avg_watch_time": 4774
   }
 }
