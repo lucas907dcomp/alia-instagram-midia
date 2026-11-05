@@ -44,12 +44,21 @@
       "saved": 0,
       "shares": 1,
       "total_interactions": 4
+    },
+    "5": {
+      "reach": 53,
+      "views": 73,
+      "likes": 3,
+      "comments": 0,
+      "saved": 0,
+      "shares": 1,
+      "total_interactions": 4
     }
   },
   "tipo": "CAROUSEL_ALBUM",
   "ultimo": {
-    "reach": 52,
-    "views": 71,
+    "reach": 53,
+    "views": 73,
     "likes": 3,
     "comments": 0,
     "saved": 0,
