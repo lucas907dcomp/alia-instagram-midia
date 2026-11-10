@@ -26,16 +26,25 @@
       "saved": 0,
       "shares": 0,
       "total_interactions": 2
+    },
+    "3": {
+      "reach": 5,
+      "views": 28,
+      "likes": 3,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 3
     }
   },
   "tipo": "CAROUSEL_ALBUM",
   "ultimo": {
     "reach": 5,
-    "views": 22,
-    "likes": 2,
+    "views": 28,
+    "likes": 3,
     "comments": 0,
     "saved": 0,
     "shares": 0,
-    "total_interactions": 2
+    "total_interactions": 3
   }
 }
