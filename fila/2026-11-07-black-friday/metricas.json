@@ -44,6 +44,15 @@
       "saved": 0,
       "shares": 0,
       "total_interactions": 3
+    },
+    "5": {
+      "reach": 5,
+      "views": 28,
+      "likes": 3,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 3
     }
   },
   "tipo": "CAROUSEL_ALBUM",
