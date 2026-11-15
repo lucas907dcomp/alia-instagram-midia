@@ -71,12 +71,21 @@
       "saved": 0,
       "shares": 0,
       "total_interactions": 3
+    },
+    "8": {
+      "reach": 8,
+      "views": 39,
+      "likes": 3,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 3
     }
   },
   "tipo": "CAROUSEL_ALBUM",
   "ultimo": {
-    "reach": 7,
-    "views": 36,
+    "reach": 8,
+    "views": 39,
     "likes": 3,
     "comments": 0,
     "saved": 0,
