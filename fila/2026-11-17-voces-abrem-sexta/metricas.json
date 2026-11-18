@@ -1,23 +1,23 @@
 {
   "porDia": {
     "0": {
-      "reach": 0,
-      "views": 0,
-      "likes": 0,
+      "reach": 7,
+      "views": 13,
+      "likes": 3,
       "comments": 0,
       "saved": 0,
       "shares": 0,
-      "total_interactions": 0
+      "total_interactions": 3
     }
   },
   "tipo": "CAROUSEL_ALBUM",
   "ultimo": {
-    "reach": 0,
-    "views": 0,
-    "likes": 0,
+    "reach": 7,
+    "views": 13,
+    "likes": 3,
     "comments": 0,
     "saved": 0,
     "shares": 0,
-    "total_interactions": 0
+    "total_interactions": 3
   }
 }
